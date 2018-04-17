@@ -1,6 +1,7 @@
 Search for Product Review
 
 Enter product name in search box and click submit
+
   a.	Display: 3 product names related to your search criteria from Walmart.com
     •	Click on each of the product names to display:
       1. Review Title
